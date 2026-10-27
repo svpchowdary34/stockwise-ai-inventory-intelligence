@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+stockwise_*.csv
+stockwise_*.md
+.env
